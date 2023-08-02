@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hello&World&height=150&fontSize=90&desc=K%20jaegyu%20Git&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hello%20World!&height=150&fontSize=90&desc=K%20jaegyu%20Git&descAlignY=75&descAlign=60)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kjaegyu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kjaegyu&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
